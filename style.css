@@ -1,0 +1,23 @@
+body {
+  background-color: #F8F9F9;
+  font-size: 14px;
+}
+
+
+img {
+  width: 75px;
+}
+
+.form-check-input, label {
+  cursor: pointer;
+}
+
+.title-1, .title-2, .title-3 {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+ 
